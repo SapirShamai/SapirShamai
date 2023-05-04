@@ -1,4 +1,4 @@
-### Hi there I'm ***Sapir***👋
+### Hi there I'm Sapir👋
 
 I'm a beginner Python programmer who loves to practice. I'm always up for a challenge and enjoy learning new things. My Github account is where I showcase my projects and share my progress with the community.
 
@@ -19,5 +19,3 @@ Thank you for visiting my Github account, and feel free to reach out to me if yo
 ![GitHub metrics](https://metrics.lecoq.io/SapirShamai)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SapirShamai)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SapirShamai)
-![Profile views](https://gpvc.arturio.dev/SapirShamai)
