@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Hello there! I'm a beginner Python programmer who loves to practice. I'm always up for a challenge and enjoy learning new things. My Github account is where I showcase my projects and share my progress with the community.
 
 I started learning Python recently and have been fascinated by its simplicity and power. I'm currently working on improving my skills and learning more about different Python libraries and frameworks.
