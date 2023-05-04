@@ -8,7 +8,6 @@ I believe that the best way to learn is by doing, so I'm always looking for new 
 
 Thank you for visiting my Github account, and feel free to reach out to me if you have any questions or just want to say hi!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my skills in Python programming and exploring various projects and applications to apply my knowledge.
 - 🌱 I’m currently learning web development using Python frameworks like Django and Flask.
